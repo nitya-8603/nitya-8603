@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**nitya-8603/nitya-8603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Hi there!! Good to see you here. 👋
 
 - I love building apps with Flutter and Dart that work beautifully on any device.
 
