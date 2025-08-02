@@ -1,6 +1,6 @@
    Hi there!! Good to see you here. 👋
 
-** I love building apps with Flutter and Dart that work beautifully on any device.
+ **I love building apps with Flutter and Dart that work beautifully on any device.
 
 - **Coding in Java, especially solving puzzles with data structures and algorithms, is my favorite way to learn.
 
