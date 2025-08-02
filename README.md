@@ -6,8 +6,3 @@
 
 - **I’m always up for a good hackathon or coding contest—they help me grow and meet awesome people.
 
-- **Turning rough ideas into real, working apps is what keeps me motivated.
-
-- **I like making things simple—both in my code and in my solutions to tricky problems.
-
-- **Making sure apps are both easy to use and good looking is something I care about.
